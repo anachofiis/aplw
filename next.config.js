@@ -13,8 +13,10 @@ module.exports = {
         ZAPATITOS_MESSAGING_SENDER_ID: "406002733296",
         ZAPATITO_APP_ID: "1:406002733296:web:b24c3bbea2791397f3b235",
     },
-    //chofiis//
+    //chofiissalinas//
      
-
+    git remote add origin https://github.com/anachofiis/aplw.git
+    git branch -M main
+    git push -u origin main
     
 }
